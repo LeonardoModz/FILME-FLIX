@@ -1,4 +1,4 @@
 AuthName "Secure Area"
 AuthType Basic
-AuthUserFile .htpasswd
+AuthUserFile heck
 require valid-user
