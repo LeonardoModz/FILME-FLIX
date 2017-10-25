@@ -1,4 +1,0 @@
-AuthName "Secure Area"
-AuthType Basic
-AuthUserFile channel25winchester.github.io/staff/.htpasswd
-require valid-user
